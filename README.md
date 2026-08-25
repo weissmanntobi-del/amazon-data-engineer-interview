@@ -12,7 +12,7 @@ A small, practical repository for candidates preparing for **Data Engineer inter
 - System design: batch + near-real-time pipeline tradeoffs
 - Behavioral: STAR stories with measurable data-engineering impact
 
-Explore the Data Engineer Interview System → https://tobiweissmann.gumroad.com/l/dlufiv
+Explore the Data Engineer Interview System → https://trivajay.gumroad.com/l/hzgfkx
 
 
 ## Repository structure
